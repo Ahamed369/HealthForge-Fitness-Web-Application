@@ -1,0 +1,534 @@
+.page-hero {
+    background: linear-gradient(315deg, #000000 0%, #b82e1f 74%);
+    color: white;
+    padding: 4rem 0;
+    text-align: center;
+}
+
+.page-hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.page-hero p {
+    font-size: 1.3rem;
+    opacity: 0.9;
+}
+
+.about-content {
+    padding: 4rem 0;
+}
+
+.about-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 3rem;
+    align-items: center;
+}
+
+.about-text h2 {
+    color:  #90ee90;
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.about-text h3 {
+    color:  #90ee90;
+    margin: 2rem 0 1rem;
+}
+
+.about-text p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: white;
+    margin-bottom: 1.5rem;
+}
+
+.feature-list {
+    list-style: none;
+    padding: 0;
+}
+
+.feature-list li {
+    padding: 0.5rem 0;
+    font-size: 1.1rem;
+    color: white;
+}
+
+.feature-list i {
+    color:  #90ee90;
+    margin-right: 0.5rem;
+}
+
+.values {
+    background: black;
+    padding: 4rem 0;
+}
+
+.values h2 {
+    text-align: center;
+    color: #90ee90;
+    font-size: 2.5rem;
+    margin-bottom: 3rem;
+}
+
+.values-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+}
+
+.value-card {
+    text-align: center;
+    padding: 2rem;
+    background: linear-gradient(315deg, #000000 0%, #b82e1f 74%);
+    border-radius: 15px;
+    transition: transform 0.3s;
+}
+
+.value-card:hover {
+    transform: translateY(-5px);
+}
+
+.value-card i {
+    font-size: 3rem;
+    color: #90ee90;
+    margin-bottom: 1rem;
+}
+
+.value-card h3 {
+    color: #90ee90;
+    margin-bottom: 1rem;
+}
+
+.value-card p{
+    color: white;
+}
+
+.impact {
+    background: black;
+    padding: 4rem 0;
+}
+
+.impact h2 {
+    text-align: center;
+    color: #90ee90;
+    font-size: 2.5rem;
+    margin-bottom: 3rem;
+}
+
+.impact-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+}
+
+.stat-card {
+    text-align: center;
+    background: linear-gradient(315deg, #000000 0%, #b82e1f 74%);
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.stat-number {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #90ee90;
+    margin-bottom: 0.5rem;
+}
+
+.stat-label {
+    color: white;
+    font-weight: 500;
+}
+
+.team {
+    padding: 4rem 0;
+}
+
+.team h2 {
+    text-align: center;
+    color: #90ee90;
+    font-size: 2.5rem;
+    margin-bottom: 3rem;
+}
+
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+}
+
+.team-member {
+    text-align: center;
+    background: linear-gradient(315deg, #000000 0%, #b82e1f 74%);
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+}
+
+.team-member:hover {
+    transform: translateY(-5px);
+}
+
+.member-image {
+    width: 120px;
+    height: 120px;
+    background: linear-gradient(135deg, #e8f5e8, #f0fff0);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1.5rem;
+}
+
+.member-image i {
+    font-size: 3rem;
+    color: #90ee90;
+}
+
+.team-member h3 {
+    color: #90ee90;
+    margin-bottom: 0.5rem;
+}
+
+.member-role {
+    color: #90ee90;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.team-member p:not(.member-role) {
+    color: white;
+    font-size: 0.95rem;
+}
+
+.nav-link.active {
+    color: #90ee90 !important;
+}
+
+/* ==========================================
+   RESPONSIVE DESIGN - MOBILE DEVICES
+   ========================================== */
+
+/* Tablet Devices (768px and below) */
+@media (max-width: 768px) {
+    .page-hero {
+        padding: 3rem 0;
+    }
+
+    .page-hero h1 {
+        font-size: 2rem;
+    }
+
+    .page-hero p {
+        font-size: 1.1rem;
+    }
+
+    .about-content {
+        padding: 3rem 0;
+    }
+
+    .about-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+
+    .about-text h2 {
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .about-text h3 {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    .about-text p {
+        font-size: 1rem;
+    }
+
+    .feature-list li {
+        font-size: 1rem;
+    }
+
+    .values {
+        padding: 3rem 0;
+    }
+
+    .values h2 {
+        font-size: 2rem;
+    }
+
+    .values-grid {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1.5rem;
+    }
+
+    .value-card {
+        padding: 1.5rem;
+    }
+
+    .value-card i {
+        font-size: 2.5rem;
+    }
+
+    .impact {
+        padding: 3rem 0;
+    }
+
+    .impact h2 {
+        font-size: 2rem;
+    }
+
+    .impact-stats {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+
+    .stat-number {
+        font-size: 2rem;
+    }
+
+    .team {
+        padding: 3rem 0;
+    }
+
+    .team h2 {
+        font-size: 2rem;
+    }
+
+    .team-grid {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1.5rem;
+    }
+
+    .team-member {
+        padding: 1.5rem;
+    }
+
+    .member-image {
+        width: 100px;
+        height: 100px;
+    }
+
+    .member-image i {
+        font-size: 2.5rem;
+    }
+}
+
+/* Small Mobile Devices (480px and below) */
+@media (max-width: 480px) {
+    .page-hero {
+        padding: 2rem 0;
+    }
+
+    .page-hero h1 {
+        font-size: 1.5rem;
+    }
+
+    .page-hero p {
+        font-size: 1rem;
+        padding: 0 1rem;
+    }
+
+    .about-content {
+        padding: 2rem 0;
+    }
+
+    .about-text h2 {
+        font-size: 1.5rem;
+    }
+
+    .about-text h3 {
+        font-size: 1.2rem;
+    }
+
+    .about-text p {
+        font-size: 0.9rem;
+    }
+
+    .feature-list li {
+        font-size: 0.9rem;
+    }
+
+    .values {
+        padding: 2rem 0;
+    }
+
+    .values h2 {
+        font-size: 1.5rem;
+    }
+
+    .values-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .value-card {
+        padding: 1.25rem;
+    }
+
+    .value-card i {
+        font-size: 2rem;
+    }
+
+    .value-card h3 {
+        font-size: 1rem;
+    }
+
+    .value-card p {
+        font-size: 0.85rem;
+    }
+
+    .impact {
+        padding: 2rem 0;
+    }
+
+    .impact h2 {
+        font-size: 1.5rem;
+    }
+
+    .impact-stats {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .stat-card {
+        padding: 1.5rem;
+    }
+
+    .stat-number {
+        font-size: 1.8rem;
+    }
+
+    .stat-label {
+        font-size: 0.9rem;
+    }
+
+    .team {
+        padding: 2rem 0;
+    }
+
+    .team h2 {
+        font-size: 1.5rem;
+    }
+
+    .team-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .team-member {
+        padding: 1.25rem;
+    }
+
+    .member-image {
+        width: 80px;
+        height: 80px;
+    }
+
+    .member-image i {
+        font-size: 2rem;
+    }
+
+    .team-member h3 {
+        font-size: 1rem;
+    }
+
+    .member-role {
+        font-size: 0.9rem;
+    }
+
+    .team-member p:not(.member-role) {
+        font-size: 0.85rem;
+    }
+}
+
+/* Extra Small Mobile Devices (360px and below) */
+@media (max-width: 360px) {
+    .page-hero {
+        padding: 1.5rem 0;
+    }
+
+    .page-hero h1 {
+        font-size: 1.3rem;
+    }
+
+    .page-hero p {
+        font-size: 0.9rem;
+    }
+
+    .about-text h2 {
+        font-size: 1.3rem;
+    }
+
+    .about-text h3 {
+        font-size: 1.1rem;
+    }
+
+    .about-text p {
+        font-size: 0.85rem;
+    }
+
+    .feature-list li {
+        font-size: 0.85rem;
+    }
+
+    .values h2,
+    .impact h2,
+    .team h2 {
+        font-size: 1.3rem;
+    }
+
+    .value-card {
+        padding: 1rem;
+    }
+
+    .value-card i {
+        font-size: 1.8rem;
+    }
+
+    .value-card h3 {
+        font-size: 0.9rem;
+    }
+
+    .value-card p {
+        font-size: 0.8rem;
+    }
+
+    .stat-number {
+        font-size: 1.5rem;
+    }
+
+    .stat-label {
+        font-size: 0.85rem;
+    }
+
+    .team-member {
+        padding: 1rem;
+    }
+
+    .member-image {
+        width: 70px;
+        height: 70px;
+    }
+
+    .member-image i {
+        font-size: 1.8rem;
+    }
+
+    .team-member h3 {
+        font-size: 0.9rem;
+    }
+
+    .member-role {
+        font-size: 0.85rem;
+    }
+
+    .team-member p:not(.member-role) {
+        font-size: 0.8rem;
+    }
+}
