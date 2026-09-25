@@ -1,264 +1,498 @@
 <div align="center">
 
-# 🏋️ HEALTHFORGE
+# 🟢 H E A L T H F O R G E
 
-### Fitness • Health • Performance • E-Commerce
+### 🏋️ FITNESS × 💻 TECHNOLOGY × 🛒 E-COMMERCE × ❤️ HEALTH
 
-<p>
-  <strong>A modern full-stack fitness and health e-commerce platform built to make fitness products, wellness essentials, and order management simple, fast, and accessible.</strong>
-</p>
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2200&pause=650&color=00C853&center=true&vCenter=true&repeat=true&width=950&lines=%E2%9A%A1+WELCOME+TO+HEALTHFORGE+%E2%9A%A1;%F0%9F%8F%8B%EF%B8%8F+FULL-STACK+FITNESS+WEB+APPLICATION;%F0%9F%90%98+PHP+%2B+MYSQL+%2B+JAVASCRIPT;%F0%9F%9B%92+SMARTER+FITNESS+COMMERCE;%F0%9F%9A%80+BUILT+BY+M.R.+AHAMED" alt="HealthForge">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=850&lines=Welcome+to+HealthForge+%F0%9F%92%AA;Full-Stack+Fitness+Web+Application;PHP+%7C+MySQL+%7C+JavaScript+%7C+HTML+%7C+CSS;Fitness+%E2%80%A2+Health+%E2%80%A2+Performance;Built+by+M.R.+Ahamed" alt="Typing SVG" />
+<br><br>
 
-<br/><br/>
+![PHP](https://img.shields.io/badge/PHP-8%2B-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-DATABASE-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-WEB-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-DESIGN-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-[![PHP](https://img.shields.io/badge/PHP-8%2B-777BB4?style=for-the-badge\&logo=php\&logoColor=white)](https://www.php.net/)
-[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<br>
 
-<br/>
+![Status](https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=for-the-badge)
+![Type](https://img.shields.io/badge/TYPE-FULL--STACK-8A2BE2?style=for-the-badge)
+![Developer](https://img.shields.io/badge/DEVELOPER-M.R._AHAMED-FF1493?style=for-the-badge)
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/Ahamed369/HealthForge-Fitness-Web-Application?style=flat-square)](https://github.com/Ahamed369/HealthForge-Fitness-Web-Application)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Ahamed369/HealthForge-Fitness-Web-Application?style=flat-square)](https://github.com/Ahamed369/HealthForge-Fitness-Web-Application/commits/main)
-[![GitHub stars](https://img.shields.io/github/stars/Ahamed369/HealthForge-Fitness-Web-Application?style=flat-square)](https://github.com/Ahamed369/HealthForge-Fitness-Web-Application/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Ahamed369/HealthForge-Fitness-Web-Application?style=flat-square)](https://github.com/Ahamed369/HealthForge-Fitness-Web-Application/forks)
-[![GitHub issues](https://img.shields.io/github/issues/Ahamed369/HealthForge-Fitness-Web-Application?style=flat-square)](https://github.com/Ahamed369/HealthForge-Fitness-Web-Application/issues)
+<br>
 
-<br/>
+[![Repo Size](https://img.shields.io/github/repo-size/Ahamed369/HealthForge-Fitness-Web-Application?style=flat-square\&logo=github)](https://github.com/Ahamed369/HealthForge-Fitness-Web-Application)
+[![Last Commit](https://img.shields.io/github/last-commit/Ahamed369/HealthForge-Fitness-Web-Application?style=flat-square\&logo=git)](https://github.com/Ahamed369/HealthForge-Fitness-Web-Application/commits/main)
+[![Stars](https://img.shields.io/github/stars/Ahamed369/HealthForge-Fitness-Web-Application?style=flat-square\&logo=github)](https://github.com/Ahamed369/HealthForge-Fitness-Web-Application/stargazers)
+[![Forks](https://img.shields.io/github/forks/Ahamed369/HealthForge-Fitness-Web-Application?style=flat-square\&logo=github)](https://github.com/Ahamed369/HealthForge-Fitness-Web-Application/forks)
+[![Issues](https://img.shields.io/github/issues/Ahamed369/HealthForge-Fitness-Web-Application?style=flat-square\&logo=github)](https://github.com/Ahamed369/HealthForge-Fitness-Web-Application/issues)
 
-![Status](https://img.shields.io/badge/STATUS-COMPLETED-success?style=for-the-badge)
-![Type](https://img.shields.io/badge/TYPE-FULL--STACK_WEB_APPLICATION-00C853?style=for-the-badge)
-![Developer](https://img.shields.io/badge/DEVELOPER-M.R._AHAMED-black?style=for-the-badge)
+<br>
+
+### 💚 `FORGE YOUR FITNESS • POWER YOUR HEALTH`
 
 </div>
 
 ---
 
-## ⚡ About HealthForge
+<div align="center">
 
-**HealthForge** is a full-stack fitness and health e-commerce web application designed to provide users with a convenient digital platform for discovering and purchasing fitness, wellness, recovery, and health-related products.
+## ⚡ SYSTEM BOOT SEQUENCE
 
-The application combines a responsive customer-facing storefront with authentication, shopping-cart functionality, checkout and order processing, product management, user management, FAQ administration, and a dedicated administrative dashboard.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1400&pause=250&color=39FF14&center=true&vCenter=true&repeat=true&width=900&lines=%5B%2B%5D+Starting+HealthForge...;%5B%2B%5D+Loading+PHP+Backend...;%5B%2B%5D+Connecting+MySQL...;%5B%2B%5D+Initializing+Authentication...;%5B%2B%5D+Loading+Product+Engine...;%5B%2B%5D+Loading+Shopping+Cart...;%5B%2B%5D+Starting+Admin+Control+Center...;%5B%E2%9C%93%5D+HEALTHFORGE+SYSTEM+ONLINE" alt="Boot Sequence">
 
-HealthForge demonstrates the implementation of both **front-end and back-end web development concepts**, including dynamic PHP pages, relational database operations, CRUD functionality, session-based authentication, responsive interfaces, JavaScript-driven interactions, and structured application architecture.
+</div>
 
-> **HealthForge is more than a storefront — it is a complete fitness-commerce management ecosystem.**
+```console
+healthforge@system:~$ system-status
+
+╔══════════════════════════════════════════════════════╗
+║               HEALTHFORGE SYSTEM                    ║
+╠══════════════════════════════════════════════════════╣
+║  🌐 Frontend Interface        [ ONLINE ]            ║
+║  🐘 PHP Backend               [ ONLINE ]            ║
+║  🗄️ MySQL Database            [ CONNECTED ]         ║
+║  🔐 Authentication            [ ACTIVE ]            ║
+║  🛒 Shopping Cart             [ ACTIVE ]            ║
+║  💳 Checkout Engine           [ READY ]             ║
+║  📦 Order Management          [ READY ]             ║
+║  🛡️ Admin Dashboard           [ ONLINE ]            ║
+╚══════════════════════════════════════════════════════╝
+
+STATUS → ALL SYSTEMS OPERATIONAL ⚡
+```
 
 ---
 
-# ✨ Core Features
+# 🌟 About HealthForge
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**HealthForge** is a full-stack fitness and health e-commerce web application designed to combine fitness, wellness and technology within one digital platform.
 
-### 🛍️ Customer Experience
+The system provides a customer-facing fitness store alongside authentication, shopping-cart functionality, checkout, order processing, product management, FAQ management, user administration and a dedicated admin dashboard.
 
-* Modern fitness-oriented homepage
-* Product catalogue
-* Dynamic product loading
-* Product information
-* Fitness and wellness categories
-* Shopping cart
-* Add-to-cart functionality
-* Quantity management
-* Remove cart items
-* Clear cart
-* Checkout workflow
-* Order placement
-* User order history
-* Responsive user interface
+```text
+                    🏋️ HEALTHFORGE
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+     🎨 FRONTEND       ⚙️ BACKEND       🗄️ DATABASE
+          │                │                │
+     HTML • CSS           PHP             MySQL
+     JavaScript            │                │
+          │                │                │
+          └────────────────┼────────────────┘
+                           ▼
+                   🛒 E-COMMERCE
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+          Products        Cart         Orders
+```
 
-</td>
+---
 
-<td width="50%" valign="top">
+# 🎯 Project Mission
 
-### 🔐 Account System
+<div align="center">
 
-* User registration
-* Secure user login
-* Logout functionality
-* Session handling
-* Authentication status checking
-* User account management
-* Password hashing
-* Role-based user structure
-* Admin/user separation
-* Database-backed accounts
+### `FITNESS + SOFTWARE + DATA + COMMERCE`
 
-</td>
-</tr>
+### ↓
 
-<tr>
-<td width="50%" valign="top">
+## ⚡ COMPLETE DIGITAL FITNESS PLATFORM ⚡
 
-### 📦 Order & Product Management
+</div>
 
-* Product creation
-* Product editing
-* Product deletion
-* Product image uploading
-* Order creation
-* Order updates
-* Order deletion
-* Order-detail retrieval
-* Shopping-cart management
-* Database-driven inventory data
+HealthForge demonstrates the practical integration of frontend development, backend processing, database engineering, authentication, CRUD operations and e-commerce workflows.
 
-</td>
+---
 
-<td width="50%" valign="top">
+# 🚀 Feature Matrix
 
-### 🛡️ Administration
-
-* Dedicated admin dashboard
-* User management
-* Product management
-* Order management
-* FAQ management
-* CRUD operations
-* Create/update/delete users
-* Create/update/delete products
-* Create/update/delete orders
-* Create/update/delete FAQs
-
-</td>
-</tr>
-</table>
+| 🧩 System         | ⚡ Capability                      |  🚦 Status  |
+| ----------------- | --------------------------------- | :---------: |
+| 🏠 Homepage       | Fitness-focused landing interface | 🟢 Complete |
+| 👤 Registration   | New customer account creation     | 🟢 Complete |
+| 🔐 Authentication | Login, logout & sessions          | 🟢 Complete |
+| 🏋️ Products      | Product catalogue                 | 🟢 Complete |
+| 🛒 Cart           | Add, remove & update items        | 🟢 Complete |
+| 💳 Checkout       | Checkout processing               | 🟢 Complete |
+| 📦 Orders         | Customer order management         | 🟢 Complete |
+| 👥 Users          | Administrative user CRUD          | 🟢 Complete |
+| 📦 Products       | Administrative product CRUD       | 🟢 Complete |
+| 🧾 Orders         | Administrative order CRUD         | 🟢 Complete |
+| ❓ FAQ             | FAQ management                    | 🟢 Complete |
+| 🖼️ Uploads       | Product image handling            | 🟢 Complete |
+| 📨 Contact        | Customer contact interface        | 🟢 Complete |
+| 🗄️ Database      | MySQL persistence                 | 🟢 Complete |
 
 ---
 
 # 🧠 System Architecture
 
 ```mermaid
-flowchart TD
-    U["👤 User / Customer"] --> UI["🌐 HealthForge Web Interface"]
+flowchart TB
 
-    A["🛡️ Administrator"] --> AD["⚙️ Admin Dashboard"]
+    USER["👤 Customer"]
+    ADMIN["🛡️ Administrator"]
 
-    UI --> AUTH["🔐 Authentication Layer"]
-    UI --> PROD["🏋️ Product System"]
-    UI --> CART["🛒 Shopping Cart"]
-    UI --> ORD["📦 Order System"]
-    UI --> CONTACT["📨 Contact Interface"]
+    subgraph UI["🎨 PRESENTATION LAYER"]
+        HOME["🏠 Homepage"]
+        PRODUCTS["🏋️ Products"]
+        CART["🛒 Cart"]
+        CHECKOUT["💳 Checkout"]
+        CONTACT["📨 Contact"]
+    end
 
-    AD --> USERM["👥 User Management"]
-    AD --> PRODM["📦 Product Management"]
-    AD --> ORDM["🧾 Order Management"]
-    AD --> FAQM["❓ FAQ Management"]
+    subgraph AUTH["🔐 SECURITY LAYER"]
+        LOGIN["Login"]
+        SIGNUP["Signup"]
+        SESSION["Session"]
+        ROLE["Role Validation"]
+    end
 
-    AUTH --> PHP["🐘 PHP Backend"]
-    PROD --> PHP
-    CART --> PHP
-    ORD --> PHP
+    subgraph APP["⚙️ APPLICATION LAYER"]
+        PHP["🐘 PHP"]
+        UM["👤 User Model"]
+        PM["📦 Product Model"]
+        CM["🛒 Cart Model"]
+        OM["🧾 Order Model"]
+    end
 
-    USERM --> PHP
-    PRODM --> PHP
-    ORDM --> PHP
-    FAQM --> PHP
+    subgraph CONTROL["🛡️ ADMIN CONTROL CENTER"]
+        USERS["👥 User CRUD"]
+        PROD["🏋️ Product CRUD"]
+        ORDERS["📦 Order CRUD"]
+        FAQ["❓ FAQ CRUD"]
+    end
 
-    PHP --> DB[("🗄️ MySQL Database")]
+    DB[("🗄️ MySQL Database")]
 
-    JS["⚡ JavaScript"] --> UI
-    CSS["🎨 CSS3"] --> UI
-    HTML["📄 HTML5"] --> UI
+    USER --> UI
+    ADMIN --> CONTROL
+
+    UI --> AUTH
+    AUTH --> APP
+    UI --> APP
+    CONTROL --> APP
+    APP --> DB
 ```
 
 ---
 
-# 🛠️ Technology Stack
+# 🛒 Customer Journey
+
+```mermaid
+flowchart LR
+
+    A["🌐 Visit"] --> B["🔐 Login"]
+    B --> C["🏋️ Browse"]
+    C --> D["🔎 Select"]
+    D --> E["🛒 Cart"]
+    E --> F["✏️ Update"]
+    F --> G["💳 Checkout"]
+    G --> H["📦 Order"]
+    H --> I["✅ Complete"]
+```
+
+---
+
+# 🛡️ Admin Control Center
+
+```mermaid
+flowchart TB
+
+    LOGIN["🔐 ADMIN LOGIN"] --> DASH["⚡ DASHBOARD"]
+
+    DASH --> U["👥 USERS"]
+    DASH --> P["🏋️ PRODUCTS"]
+    DASH --> O["📦 ORDERS"]
+    DASH --> F["❓ FAQs"]
+
+    U --> U1["➕ Create"]
+    U --> U2["✏️ Update"]
+    U --> U3["🗑️ Delete"]
+
+    P --> P1["➕ Create"]
+    P --> P2["✏️ Update"]
+    P --> P3["🗑️ Delete"]
+
+    O --> O1["➕ Create"]
+    O --> O2["✏️ Update"]
+    O --> O3["🗑️ Delete"]
+
+    F --> F1["➕ Create"]
+    F --> F2["✏️ Update"]
+    F --> F3["🗑️ Delete"]
+```
+
+---
+
+# 🧬 Request Lifecycle
+
+```mermaid
+sequenceDiagram
+
+    actor U as 👤 User
+    participant W as 🌐 Web Interface
+    participant P as 🐘 PHP Backend
+    participant D as 🗄️ MySQL
+
+    U->>W: Open HealthForge
+    W->>P: Request data
+    P->>D: SQL query
+    D-->>P: Return records
+    P-->>W: Render content
+
+    U->>W: Login
+    W->>P: Submit credentials
+    P->>D: Validate account
+    D-->>P: Account record
+    P-->>W: Start session
+
+    U->>W: Add product
+    W->>P: Cart request
+    P-->>W: Updated cart
+
+    U->>W: Checkout
+    W->>P: Create order
+    P->>D: Store order
+    D-->>P: Success
+    P-->>W: Confirmation
+```
+
+---
+
+# 🎨 Technology Stack
 
 <div align="center">
 
-|          Layer         | Technologies                        |
-| :--------------------: | :---------------------------------- |
-|     🎨 **Frontend**    | HTML5 • CSS3 • JavaScript           |
-|     ⚙️ **Backend**     | PHP                                 |
-|    🗄️ **Database**    | MySQL                               |
-|  🔐 **Authentication** | PHP Sessions • Password Hashing     |
-|  🔄 **Data Handling**  | PHP • PDO • MySQL                   |
-|   🧩 **Architecture**  | Modular PHP • Model-Based Structure |
-|     🛒 **Commerce**    | Cart • Checkout • Orders            |
-| 🛡️ **Administration** | CRUD Management Dashboard           |
-| 🔧 **Version Control** | Git • GitHub                        |
-|   💻 **Development**   | Visual Studio Code                  |
+### FRONTEND
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### BACKEND
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
+### DATABASE
+
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### DEVELOPMENT
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 </div>
 
 ---
 
-# 📊 Technology Distribution
+# 📊 Technology Architecture
 
 ```mermaid
 pie showData
-    title HealthForge Technology Composition
-    "PHP / Backend" : 40
-    "HTML / Structure" : 20
-    "CSS / UI Design" : 18
-    "JavaScript / Interactivity" : 12
-    "MySQL / Database" : 10
+    title HealthForge Technology Focus
+    "PHP Backend" : 40
+    "HTML Structure" : 20
+    "CSS Interface" : 18
+    "JavaScript Interaction" : 12
+    "MySQL Database" : 10
 ```
 
-> The chart above is a **high-level architectural illustration**, not a GitHub language-statistics measurement.
+> ℹ️ This chart is an illustrative architectural breakdown rather than measured GitHub language statistics.
 
 ---
 
-# 📈 Development Focus
+# 📊 Functional Architecture
+
+```mermaid
+pie showData
+    title HealthForge Functional Focus
+    "Admin & CRUD" : 30
+    "Commerce & Orders" : 25
+    "Authentication" : 20
+    "Customer Interface" : 15
+    "Data Layer" : 10
+```
+
+---
+
+# 📈 Development Matrix
 
 ```text
-Backend Development        ████████████████████  100%
-Database Integration       ███████████████████░   95%
-CRUD Operations            ███████████████████░   95%
-Authentication             ██████████████████░░   90%
-Admin Management           ██████████████████░░   90%
-Frontend Development       █████████████████░░░   85%
-Responsive UI              █████████████████░░░   85%
-JavaScript Interaction     ████████████████░░░░   80%
-E-Commerce Workflow        ██████████████████░░   90%
+╔══════════════════════════════════════════════════════════════════╗
+║                    ENGINEERING MATRIX                            ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║ PHP Backend             ████████████████████  CORE              ║
+║ MySQL Integration       ████████████████████  CORE              ║
+║ CRUD Operations         ████████████████████  CORE              ║
+║ Authentication          ███████████████████░  ADVANCED          ║
+║ Admin Management        ███████████████████░  ADVANCED          ║
+║ E-Commerce Workflow     ███████████████████░  ADVANCED          ║
+║ Frontend Engineering    ██████████████████░░  STRONG            ║
+║ JavaScript              █████████████████░░░  STRONG            ║
+║ Git / GitHub            ██████████████████░░  STRONG            ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-> These bars describe the **functional focus of the project** rather than measured performance scores.
+These bars represent the project's technical focus rather than benchmark scores.
 
 ---
 
-# 🔥 Technical Skills Demonstrated
+# 🔥 Skills Demonstrated
+
+### 🐘 Backend Engineering
+
+`PHP` • `PDO` • `Sessions` • `Authentication` • `CRUD` • `Password Hashing` • `Server-Side Processing`
+
+### 🎨 Frontend Engineering
+
+`HTML5` • `CSS3` • `JavaScript` • `Responsive Design` • `DOM Interaction`
+
+### 🗄️ Database Engineering
+
+`MySQL` • `SQL` • `Relational Data` • `Queries` • `Data Persistence`
+
+### ⚙️ Software Engineering
+
+`Git` • `GitHub` • `Modular Architecture` • `Debugging` • `Full-Stack Development`
+
+---
+
+# 🗄️ Database Ecosystem
+
+```mermaid
+flowchart LR
+
+    USER["👤 Users"]
+    PRODUCT["🏋️ Products"]
+    CART["🛒 Cart"]
+    ORDER["📦 Orders"]
+    FAQ["❓ FAQs"]
+
+    USER --> CART
+    PRODUCT --> CART
+    CART --> ORDER
+    USER --> ORDER
+
+    ADMIN["🛡️ Admin"]
+
+    ADMIN --> USER
+    ADMIN --> PRODUCT
+    ADMIN --> ORDER
+    ADMIN --> FAQ
+
+    DB[("🗄️ MySQL")]
+
+    USER --> DB
+    PRODUCT --> DB
+    ORDER --> DB
+    FAQ --> DB
+```
+
+---
+
+# 🔐 Security Architecture
+
+```mermaid
+flowchart LR
+
+    R["🌐 Request"]
+    V["🔎 Validation"]
+    A["🔐 Authentication"]
+    S["🎫 Session"]
+    ROLE{"👥 Role"}
+    C["👤 Customer"]
+    ADM["🛡️ Admin"]
+    DB[("🗄️ MySQL")]
+
+    R --> V --> A --> S --> ROLE
+
+    ROLE -->|User| C
+    ROLE -->|Admin| ADM
+
+    C --> DB
+    ADM --> DB
+```
+
+### Security Foundations
+
+```text
+🔐 Password Hashing
+🎫 Session Authentication
+👥 Role-Based Structure
+🗄️ PDO Connectivity
+⚙️ Server-Side Processing
+🔍 Authentication Validation
+🛡️ Administrative Access
+```
+
+---
+
+# 🧩 CRUD Matrix
+
+| Module       | ➕ Create | 👁️ Read | ✏️ Update | 🗑️ Delete |
+| ------------ | :------: | :------: | :-------: | :--------: |
+| 👥 Users     |     ✅    |     ✅    |     ✅     |      ✅     |
+| 🏋️ Products |     ✅    |     ✅    |     ✅     |      ✅     |
+| 📦 Orders    |     ✅    |     ✅    |     ✅     |      ✅     |
+| ❓ FAQs       |     ✅    |     ✅    |     ✅     |      ✅     |
+| 🛒 Cart      |     ✅    |     ✅    |     ✅     |      ✅     |
+
+---
+
+# 🖼️ HealthForge Product Gallery
+
+Instead of linking to nonexistent screenshots, this section uses **real images already stored in this repository**.
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+<table>
+<tr>
+<td align="center"><b>Whey Protein</b></td>
+<td align="center"><b>Dumbbell</b></td>
+<td align="center"><b>Treadmill</b></td>
+</tr>
+
+<tr>
+<td><img src="images/Whey_protein.jpg" width="220" alt="Whey Protein"></td>
+<td><img src="images/dumbbell.jpg" width="220" alt="Dumbbell"></td>
+<td><img src="images/treadmill.jpg" width="220" alt="Treadmill"></td>
+</tr>
+
+<tr>
+<td align="center"><b>Fitness Tracker</b></td>
+<td align="center"><b>Yoga Mat</b></td>
+<td align="center"><b>Massage Gun</b></td>
+</tr>
+
+<tr>
+<td><img src="images/fitness_tracker.jpg" width="220" alt="Fitness Tracker"></td>
+<td><img src="images/yoga_mat.jpg" width="220" alt="Yoga Mat"></td>
+<td><img src="images/massage_gun.jpg" width="220" alt="Massage Gun"></td>
+</tr>
+</table>
 
 </div>
 
-### Backend Engineering
-
-`PHP` `PDO` `Sessions` `Authentication` `Authorization` `CRUD` `Server-Side Validation` `Password Hashing`
-
-### Frontend Engineering
-
-`HTML5` `CSS3` `JavaScript` `Responsive Design` `DOM Manipulation` `Interactive UI`
-
-### Database Engineering
-
-`MySQL` `SQL` `Relational Database Design` `Database Integration` `Queries` `Data Management`
-
-### Software Development
-
-`Git` `GitHub` `Modular Development` `Debugging` `Requirement Implementation` `Full-Stack Development`
-
 ---
 
-# 🗂️ Project Structure
+# 📁 Project Architecture
+
+<details>
+<summary><b>📂 CLICK TO EXPLORE THE HEALTHFORGE FILE STRUCTURE</b></summary>
+
+<br>
 
 ```text
 HealthForge-Fitness-Web-Application/
@@ -309,7 +543,7 @@ HealthForge-Fitness-Web-Application/
 │   └── contact.css
 │
 ├── 📁 images/
-│   └── Product & interface assets
+│   └── HealthForge product assets
 │
 ├── 📁 js/
 │   ├── app.js
@@ -334,206 +568,150 @@ HealthForge-Fitness-Web-Application/
 ├── 📄 contact.php
 ├── 🗄️ healthforge.sql
 ├── 🔐 generate_password_hash.php
-└── 📄 .gitignore
+├── 📄 .gitignore
+└── 📖 README.md
 ```
+
+</details>
 
 ---
 
-# 🔄 Application Workflow
-
-```mermaid
-sequenceDiagram
-    actor User
-    participant UI as HealthForge UI
-    participant PHP as PHP Backend
-    participant DB as MySQL Database
-
-    User->>UI: Visit HealthForge
-    UI->>PHP: Request products
-    PHP->>DB: Query product data
-    DB-->>PHP: Return products
-    PHP-->>UI: Display catalogue
-
-    User->>UI: Register / Login
-    UI->>PHP: Submit credentials
-    PHP->>DB: Validate account
-    DB-->>PHP: Account data
-    PHP-->>UI: Create authenticated session
-
-    User->>UI: Add product to cart
-    UI->>PHP: Update cart
-    PHP-->>UI: Updated cart
-
-    User->>UI: Checkout
-    UI->>PHP: Submit order
-    PHP->>DB: Store order
-    DB-->>PHP: Order created
-    PHP-->>UI: Order confirmation
-```
-
----
-
-# 🛡️ Admin Workflow
-
-```mermaid
-flowchart LR
-
-LOGIN["🔐 Admin Login"] --> DASH["📊 Dashboard"]
-
-DASH --> USERS["👥 Users"]
-DASH --> PRODUCTS["🏋️ Products"]
-DASH --> ORDERS["📦 Orders"]
-DASH --> FAQ["❓ FAQs"]
-
-USERS --> UC["Create"]
-USERS --> UU["Update"]
-USERS --> UD["Delete"]
-
-PRODUCTS --> PC["Create"]
-PRODUCTS --> PU["Update"]
-PRODUCTS --> PD["Delete"]
-
-ORDERS --> OC["Create"]
-ORDERS --> OU["Update"]
-ORDERS --> OD["Delete"]
-
-FAQ --> FC["Create"]
-FAQ --> FU["Update"]
-FAQ --> FD["Delete"]
-```
-
----
-
-# 🗄️ Database Layer
-
-HealthForge uses **MySQL** as its relational database system.
-
-Core data areas include:
+# 🎮 Developer Quest
 
 ```text
-👤 Users
-   │
-   ├── Authentication
-   ├── User Roles
-   └── Account Information
-
-🏋️ Products
-   │
-   ├── Product Details
-   ├── Pricing
-   ├── Images
-   └── Inventory Information
-
-🛒 Cart
-   │
-   ├── Selected Products
-   └── Quantities
-
-📦 Orders
-   │
-   ├── Customer Information
-   ├── Order Details
-   └── Order Status
-
-❓ FAQs
-   │
-   └── Administrative Content
+╔══════════════════════════════════════════════════════════╗
+║                🎮 HEALTHFORGE QUEST                     ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  QUEST 01  🎨 Build Frontend                  [✓]        ║
+║  QUEST 02  🐘 Forge PHP Backend               [✓]        ║
+║  QUEST 03  🗄️ Connect MySQL                   [✓]        ║
+║  QUEST 04  🔐 Build Authentication            [✓]        ║
+║  QUEST 05  🏋️ Build Product Engine            [✓]        ║
+║  QUEST 06  🛒 Build Shopping Cart             [✓]        ║
+║  QUEST 07  💳 Build Checkout                  [✓]        ║
+║  QUEST 08  📦 Build Order System              [✓]        ║
+║  QUEST 09  🛡️ Build Admin Dashboard           [✓]        ║
+║  QUEST 10  ⚙️ Complete CRUD                    [✓]        ║
+║                                                          ║
+║             🏆 ALL MAIN QUESTS COMPLETE 🏆              ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# 🔐 Authentication & Security
+# 🕹️ Developer Profile
 
-HealthForge includes several application-security foundations:
+```console
+PLAYER@HEALTHFORGE:~$ whoami
 
-* Password hashing
-* PHP session-based authentication
-* User-role separation
-* Admin/user access structure
-* PDO-based database connectivity
-* Server-side processing
-* Authentication status validation
-* Controlled administrative functionality
+👨‍💻 M.R. AHAMED
 
-> Production deployments should additionally use environment variables for credentials, HTTPS, hardened session settings, comprehensive input validation, CSRF protection, secure HTTP headers, and production-specific database credentials.
+PLAYER@HEALTHFORGE:~$ class
+
+⚡ Full-Stack Developer
+🎓 Computer Science Undergraduate
+💼 Entrepreneur
+
+PLAYER@HEALTHFORGE:~$ weapons
+
+🐘 PHP
+🗄️ MySQL
+⚡ JavaScript
+🌐 HTML5
+🎨 CSS3
+🔀 Git
+🐙 GitHub
+
+PLAYER@HEALTHFORGE:~$ current-mission
+
+🏋️ HEALTHFORGE FITNESS WEB APPLICATION
+
+PLAYER@HEALTHFORGE:~$ status
+
+🚀 READY TO BUILD
+```
 
 ---
 
-# 🚀 Installation & Setup
+# 🚀 Installation
 
-## 1️⃣ Clone the Repository
+<details>
+
+<summary><b>1️⃣ CLONE HEALTHFORGE</b></summary>
+
+<br>
 
 ```bash
 git clone https://github.com/Ahamed369/HealthForge-Fitness-Web-Application.git
-```
-
-Move into the project:
-
-```bash
 cd HealthForge-Fitness-Web-Application
 ```
 
----
+</details>
 
-## 2️⃣ Install a Local PHP Environment
+<details>
 
-You can use:
+<summary><b>2️⃣ CONFIGURE LOCAL SERVER</b></summary>
 
-* XAMPP
-* WAMP
-* MAMP
-* Native PHP + MySQL
+<br>
 
-For XAMPP, place the project inside:
+Use:
 
 ```text
-xampp/htdocs/
+XAMPP
+WAMP
+MAMP
+or PHP + MySQL
 ```
 
-Example:
+For XAMPP:
 
 ```text
-C:/xampp/htdocs/HealthForge-Fitness-Web-Application/
+C:\xampp\htdocs\HealthForge-Fitness-Web-Application\
 ```
-
----
-
-## 3️⃣ Start Required Services
 
 Start:
 
 ```text
-Apache
-MySQL
+Apache → START
+MySQL  → START
 ```
 
----
+</details>
 
-## 4️⃣ Create the Database
+<details>
 
-Open:
+<summary><b>3️⃣ CREATE DATABASE</b></summary>
+
+<br>
+
+Open phpMyAdmin:
 
 ```text
 http://localhost/phpmyadmin
 ```
 
-Create a database named:
+Create:
 
 ```sql
-healthforge
+CREATE DATABASE healthforge;
 ```
 
-Then import:
+Import:
 
 ```text
 healthforge.sql
 ```
 
----
+</details>
 
-## 5️⃣ Database Configuration
+<details>
 
-Default local configuration:
+<summary><b>4️⃣ DATABASE CONFIGURATION</b></summary>
+
+<br>
+
+Default local setup:
 
 ```php
 private $host = "localhost";
@@ -542,209 +720,114 @@ private $username = "root";
 private $password = "";
 ```
 
-For a real deployment, use environment-specific credentials rather than publishing production secrets.
+> ⚠️ Never commit real production passwords or private credentials.
 
----
+</details>
 
-## 6️⃣ Launch HealthForge
+<details>
 
-Open:
+<summary><b>5️⃣ LAUNCH HEALTHFORGE</b></summary>
+
+<br>
 
 ```text
 http://localhost/HealthForge-Fitness-Web-Application/
 ```
 
-Depending on the folder name used inside `htdocs`, your local URL may differ.
+</details>
 
 ---
 
-# 🛒 E-Commerce Journey
+# 🔄 Development Lifecycle
 
 ```mermaid
 flowchart LR
-    A["🏠 Home"] --> B["🔎 Browse Products"]
-    B --> C["🏋️ Select Product"]
-    C --> D["🛒 Add to Cart"]
-    D --> E["✏️ Manage Cart"]
-    E --> F["💳 Checkout"]
-    F --> G["📦 Place Order"]
-    G --> H["✅ Order Created"]
-    H --> I["📋 Order History"]
+
+    IDEA["💡 IDEA"]
+    CODE["💻 CODE"]
+    TEST["🧪 TEST"]
+    DEBUG["🐛 DEBUG"]
+    COMMIT["📦 COMMIT"]
+    PUSH["🚀 PUSH"]
+    GITHUB["🐙 GITHUB"]
+    IMPROVE["⚡ IMPROVE"]
+
+    IDEA --> CODE --> TEST --> DEBUG --> COMMIT --> PUSH --> GITHUB --> IMPROVE --> CODE
 ```
 
 ---
 
-# 📊 Functional Distribution
+# 🔮 Evolution Roadmap
 
 ```mermaid
-pie showData
-    title HealthForge Functional Architecture
-    "Admin & CRUD Management" : 30
-    "E-Commerce & Orders" : 25
-    "User & Authentication" : 20
-    "Frontend Experience" : 15
-    "Database & Data Layer" : 10
-```
+timeline
+    title HealthForge Evolution
 
-> Percentages are an **illustrative breakdown of project functionality**, not measured code percentages.
+    Current
+      : Full-Stack Platform
+      : Authentication
+      : Cart & Checkout
+      : Order Management
+      : Admin Dashboard
+
+    Next
+      : Advanced Search
+      : Product Filters
+      : Wishlist
+      : Ratings & Reviews
+
+    Future
+      : Payment Gateway
+      : Email Notifications
+      : Sales Analytics
+      : Inventory Alerts
+
+    Advanced
+      : Cloud Deployment
+      : PWA Support
+      : Automated Testing
+      : AI Recommendations
+```
 
 ---
 
-# 📸 Screenshots
+# 💡 Future Enhancements
+
+| Area              | Enhancement               |
+| ----------------- | ------------------------- |
+| 💳 Payments       | Online payment gateway    |
+| 📧 Communication  | Automated emails          |
+| 🔎 Discovery      | Advanced product search   |
+| 🎯 Filtering      | Smart product filters     |
+| ❤️ Engagement     | Wishlist                  |
+| ⭐ Community       | Ratings & reviews         |
+| 📊 Analytics      | Admin analytics dashboard |
+| 📈 Business       | Sales visualization       |
+| 📦 Inventory      | Stock alerts              |
+| 🧾 Documents      | Invoice generation        |
+| 🔐 Security       | CSRF protection           |
+| 🔑 Accounts       | Password recovery         |
+| 📱 Mobile         | Progressive Web App       |
+| ☁️ Infrastructure | Cloud deployment          |
+| 🧪 Quality        | Automated testing         |
+| 🌙 UX             | Dark mode                 |
+| 🤖 AI             | Product recommendations   |
+
+---
+
+# 🏆 Achievement Board
 
 <div align="center">
 
-### 🏠 Homepage
+![Full Stack](https://img.shields.io/badge/🏆_ACHIEVEMENT-FULL_STACK-00C853?style=for-the-badge)
 
-> Add your HealthForge homepage screenshot here.
+![Backend](https://img.shields.io/badge/⚡_ACHIEVEMENT-PHP_BACKEND-777BB4?style=for-the-badge)
 
-```html
-<img src="screenshots/homepage.png" width="90%" alt="HealthForge Homepage"/>
-```
+![Database](https://img.shields.io/badge/🗄️_ACHIEVEMENT-MYSQL_DATABASE-4479A1?style=for-the-badge)
 
-### 🏋️ Products
+![CRUD](https://img.shields.io/badge/⚙️_ACHIEVEMENT-COMPLETE_CRUD-FF8C00?style=for-the-badge)
 
-> Add your product-page screenshot here.
-
-```html
-<img src="screenshots/products.png" width="90%" alt="HealthForge Products"/>
-```
-
-### 🛡️ Admin Dashboard
-
-> Add your admin-dashboard screenshot here.
-
-```html
-<img src="screenshots/admin-dashboard.png" width="90%" alt="HealthForge Admin Dashboard"/>
-```
-
-</div>
-
----
-
-# 🧪 Major Modules
-
-| Module            | Purpose                              | Status |
-| ----------------- | ------------------------------------ | :----: |
-| 🏠 Homepage       | Main HealthForge customer experience |    ✅   |
-| 👤 Authentication | Login, signup and logout             |    ✅   |
-| 🏋️ Products      | Product catalogue and retrieval      |    ✅   |
-| 🛒 Cart           | Cart management                      |    ✅   |
-| 💳 Checkout       | Order checkout workflow              |    ✅   |
-| 📦 Orders         | Customer order management            |    ✅   |
-| 👥 Admin Users    | User CRUD management                 |    ✅   |
-| 📦 Admin Products | Product CRUD management              |    ✅   |
-| 🧾 Admin Orders   | Order CRUD management                |    ✅   |
-| ❓ Admin FAQ       | FAQ CRUD management                  |    ✅   |
-| 📨 Contact        | Customer contact interface           |    ✅   |
-| 🗄️ Database      | MySQL data persistence               |    ✅   |
-
----
-
-# 💡 Key Development Concepts
-
-This project demonstrates practical knowledge of:
-
-```text
-✓ Full-Stack Web Development
-✓ PHP Backend Development
-✓ MySQL Database Integration
-✓ Object-Oriented / Model-Based PHP Structure
-✓ CRUD Operations
-✓ Authentication & Sessions
-✓ Password Hashing
-✓ Role-Based Application Structure
-✓ Shopping Cart Logic
-✓ Checkout Processing
-✓ Order Management
-✓ Product Management
-✓ User Management
-✓ FAQ Management
-✓ Responsive Web Design
-✓ JavaScript Interactivity
-✓ Git Version Control
-✓ GitHub Repository Management
-```
-
----
-
-# 🎯 Project Objectives
-
-HealthForge was developed to demonstrate how a complete fitness-oriented commerce platform can integrate:
-
-**Customer Experience**
-
-```text
-Discover → Browse → Add to Cart → Checkout → Order
-```
-
-**Administration**
-
-```text
-Login → Dashboard → Manage Users / Products / Orders / FAQs
-```
-
-**Application Layer**
-
-```text
-Frontend → PHP Logic → PDO → MySQL
-```
-
-The result is a structured full-stack application combining UI development, backend processing, database management, authentication, CRUD operations, and e-commerce functionality.
-
----
-
-# 🌟 Future Enhancements
-
-Potential future development includes:
-
-* 💳 Online payment-gateway integration
-* 📧 Automated email notifications
-* 🔍 Advanced product search
-* 🎯 Product filtering
-* ❤️ Wishlist functionality
-* ⭐ Product reviews and ratings
-* 📊 Advanced admin analytics
-* 📈 Sales visualization
-* 📦 Inventory alerts
-* 🧾 Invoice generation
-* 🔐 CSRF protection
-* 🔑 Password-reset workflow
-* 📱 Progressive Web App support
-* ☁️ Cloud deployment
-* 🧪 Automated testing
-* 🌙 Dark-mode interface
-* 🤖 AI-powered fitness-product recommendations
-
----
-
-# 📈 GitHub Repository Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahamed369&show_icons=true&include_all_commits=true&count_private=true" alt="Ahamed GitHub Statistics"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamed369&layout=compact" alt="Ahamed Most Used Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahamed369" alt="Ahamed GitHub Streak"/>
-
-</div>
-
----
-
-# 🏆 Project Highlights
-
-<div align="center">
-
-| 💻 Full Stack | 🗄️ Database |    🔐 Security   | 🛒 Commerce |  🛡️ Admin |
-| :-----------: | :----------: | :--------------: | :---------: | :--------: |
-|    PHP + JS   |     MySQL    |  Authentication  |     Cart    |  Dashboard |
-|   HTML + CSS  |      PDO     | Password Hashing |   Checkout  |    CRUD    |
-| Responsive UI |      SQL     |     Sessions     |    Orders   | Management |
+![Commerce](https://img.shields.io/badge/🛒_ACHIEVEMENT-E--COMMERCE-FF1493?style=for-the-badge)
 
 </div>
 
@@ -754,67 +837,59 @@ Potential future development includes:
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=600&color=00C853&center=true&vCenter=true&width=850&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+M.R.+AHAMED;%F0%9F%8E%93+COMPUTER+SCIENCE+UNDERGRADUATE;%E2%9A%A1+FULL-STACK+DEVELOPER;%F0%9F%92%BC+ENTREPRENEUR;%F0%9F%9A%80+BUILDING+DIGITAL+SOLUTIONS" alt="M.R. Ahamed">
+
+<br>
+
 ## M.R. Ahamed
 
 **Computer Science Undergraduate • Full-Stack Developer • Entrepreneur**
 
-Building digital products and technology-driven solutions with a focus on modern web development, software engineering, mobile technology, and practical business applications.
+<br>
 
-<br/>
+[![GitHub](https://img.shields.io/badge/GITHUB-AHAMED369-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Ahamed369)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ahamed369-181717?style=for-the-badge\&logo=github)](https://github.com/Ahamed369)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-M.R._Ahamed-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mr-ahamed-6146a5276)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-M.R._AHAMED-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mr-ahamed-6146a5276)
 
 </div>
 
 ---
 
-# 🤝 Contributions
-
-Contributions, suggestions, and improvements are welcome.
+# 🤝 Contributing
 
 ```bash
 # Fork the repository
 
-# Create a feature branch
-git checkout -b feature/new-feature
+git clone https://github.com/YOUR-USERNAME/HealthForge-Fitness-Web-Application.git
 
-# Commit your changes
-git commit -m "Add new feature"
+cd HealthForge-Fitness-Web-Application
 
-# Push the branch
-git push origin feature/new-feature
+git checkout -b feature/amazing-feature
+
+git add .
+
+git commit -m "Add amazing feature"
+
+git push origin feature/amazing-feature
 ```
 
-Then open a **Pull Request**.
+Then open a Pull Request.
 
 ---
 
-# ⭐ Support
-
-If you find **HealthForge** useful or interesting:
-
-```text
-⭐ Star the repository
-🍴 Fork the project
-🐛 Report issues
-💡 Suggest improvements
-🤝 Contribute
-```
-
-Your support helps the project grow.
-
----
-
-# 📌 Repository
+# ⭐ Support HealthForge
 
 <div align="center">
 
-### HealthForge Fitness Web Application
+### If HealthForge helped or inspired you:
 
-**Full-Stack Fitness & Health E-Commerce Platform**
+⭐ **STAR** • 🍴 **FORK** • 🐛 **REPORT** • 💡 **SUGGEST** • 🤝 **CONTRIBUTE**
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-HealthForge-00C853?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Ahamed369/HealthForge-Fitness-Web-Application)
+<br>
+
+[![Star HealthForge](https://img.shields.io/github/stars/Ahamed369/HealthForge-Fitness-Web-Application?style=social)](https://github.com/Ahamed369/HealthForge-Fitness-Web-Application/stargazers)
+
+[![Fork HealthForge](https://img.shields.io/github/forks/Ahamed369/HealthForge-Fitness-Web-Application?style=social)](https://github.com/Ahamed369/HealthForge-Fitness-Web-Application/forks)
 
 </div>
 
@@ -822,18 +897,34 @@ Your support helps the project grow.
 
 <div align="center">
 
-### ⚡ BUILT WITH PASSION FOR FITNESS & TECHNOLOGY ⚡
+# ⚡ HEALTHFORGE ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Code.+Build.+Improve.+Repeat.;Forging+Fitness+Through+Technology.;Thank+You+For+Visiting+HealthForge+%F0%9F%92%AA" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=23&duration=2100&pause=600&color=00C853&center=true&vCenter=true&width=950&lines=TRAIN+HARD.+CODE+SMART.;BUILD.+TEST.+IMPROVE.+REPEAT.;FITNESS+MEETS+TECHNOLOGY.;FORGE+YOUR+FITNESS.;POWER+YOUR+HEALTH.;THANK+YOU+FOR+VISITING+HEALTHFORGE+%F0%9F%92%AA" alt="HealthForge Footer">
 
-<br/>
+<br><br>
+
+[![Open Repository](https://img.shields.io/badge/OPEN_HEALTHFORGE-00C853?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Ahamed369/HealthForge-Fitness-Web-Application)
+
+<br><br>
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║                 🏋️  HEALTHFORGE  ⚡                     ║
+║                                                          ║
+║           BUILT WITH PASSION × CODE × FITNESS            ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+### `</ HEALTHFORGE >`
 
 **Designed & Developed by M.R. Ahamed**
 
-`PHP` • `MySQL` • `JavaScript` • `HTML5` • `CSS3`
+`PHP` • `MySQL` • `JavaScript` • `HTML5` • `CSS3` • `Git` • `GitHub`
 
-<br/>
+**© 2026 M.R. Ahamed • HealthForge**
 
-⭐ **Star HealthForge if you like the project!** ⭐
+### ⭐ STAR THE REPOSITORY IF YOU LIKE HEALTHFORGE ⭐
 
 </div>
